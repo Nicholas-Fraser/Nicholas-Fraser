@@ -20,8 +20,8 @@
     PowerShell Ver. : 
 
 .USAGE
-    Put any usage instructions here.
-    Example syntax:
+    Run in an elevated PowerShell session.
+    Example:
     PS C:\> .\STIG-ID-WN10-AU-000505.ps1
 #>
 
